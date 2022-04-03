@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639508489327",
+    "project_id": "paecbot-6eca0",
+    "storage_bucket": "paecbot-6eca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639508489327:android:45eafe39dbbca44d0e999a",
+        "android_client_info": {
+          "package_name": "com.example.paecbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639508489327-6f8t6eb6lna01d3qb1bea1avmfcp2dgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84ZrdZXk-CxROceabNjT1Ywt_s2OhRGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639508489327-6f8t6eb6lna01d3qb1bea1avmfcp2dgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

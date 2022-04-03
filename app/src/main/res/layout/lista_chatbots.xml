@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:background="#ffffff">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imagen_perfil"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                >
+
+            </de.hdodenhof.circleimageview.CircleImageView>
+
+        <TextView
+            android:id="@+id/nombrechatot"
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/imagen_perfil"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/horaenvio"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="75dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@+id/nombrechatot"
+            android:gravity="center"
+            android:textAlignment="textEnd"
+            android:textSize="12sp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/ultimomensaje"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_below="@+id/nombrechatot"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_toRightOf="@+id/imagen_perfil"
+            android:textSize="15sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/separador"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:textColor="#CDC7C7"
+            android:layout_marginTop="-5dp"
+            android:layout_toRightOf="@+id/imagen_perfil"
+            android:layout_below="@+id/imagen_perfil"
+            android:layout_marginLeft="20dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="20dp">
+        </TextView>
+
+    </RelativeLayout>
+
+</RelativeLayout>
+

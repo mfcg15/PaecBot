@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.SobreMi">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/parte1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/icono_paecbot">
+            </ImageView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/parte2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/parte1"
+            android:layout_marginTop="18dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:text="Paecbot"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="10dp"
+                android:text="Creado por Martha Cárdenas, egresada de la carrera de Informática en la Universidad de Nacional de Trujillo."
+                android:textAlignment="inherit"
+                android:textColor="#1c1c1c" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/parte3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/parte2"
+            android:layout_marginTop="18dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:text="Creditos"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="10dp"
+                android:text="Esta aplicación utiliza bibliotecas y componentes de código abierto."
+                android:textAlignment="inherit"
+                android:textColor="#1c1c1c" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/parte4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/parte3"
+            android:layout_marginTop="18dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:text="Objetivos"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="6dp"
+                android:text="Paecbot fue creado con el objetivo de ser una herramienta de apoyo a la población estudiantil, específicamente a los estudiantes que estén cursando el nivel primario, a fin de reforzar lo aprendido en clase de manera lúdica."
+                android:textAlignment="inherit"
+                android:textColor="#1c1c1c" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/parte5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/parte4"
+            android:layout_marginTop="18dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="Consultas"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="inherit"
+                android:textColor="#1c1c1c"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="6dp"
+                android:text="Para mayor información, sugerencia o donación para lograr subir la aplicación a Google Play Store, puedes mandar un mensaje a la siguiente dirección de correo :"/>
+
+            <TextView
+                android:id="@+id/clikea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_marginTop="2dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="18dp"
+                android:text="paecbotinformacion@gmail.com"
+                android:textColor="@android:color/holo_blue_dark"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

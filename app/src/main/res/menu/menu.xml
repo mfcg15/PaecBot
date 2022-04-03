@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Juego"
+        android:icon="@drawable/icono_juego"
+        android:title="Juego"/>
+
+    <item
+
+        android:id="@+id/Reporte"
+        android:icon="@drawable/icono_reporte"
+        android:title="Reporte"/>
+
+    <item
+        android:id="@+id/Ranking_de_puntajes"
+        android:icon="@drawable/icono_ranking"
+        android:title="Ranking de Puntajes"/>
+
+    <item android:title="Actualizacion">
+
+        <menu>
+
+            <item
+
+                android:id="@+id/Editar_perfil"
+                android:icon="@drawable/icono_editar_datos"
+                android:title="Editar Perfil"/>
+
+            <item
+                android:id="@+id/Cambiar_contraseña"
+                android:icon="@drawable/icono_cambiar_password"
+                android:title="Cambiar Contraseña"/>
+
+        </menu>
+
+    </item>
+
+    <item android:title="Informacion">
+
+        <menu>
+
+            <item
+                android:id="@+id/tutorial"
+                android:icon="@drawable/icono_ayuda"
+                android:title="Ayuda"/>
+
+            <item
+                android:id="@+id/acerca"
+                android:icon="@drawable/icono_informacion"
+                android:title="Sobre mi"/>
+
+        </menu>
+
+    </item>
+
+</menu>
