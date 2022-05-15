@@ -11,6 +11,8 @@ Aplicación para reforzar el aprendizaje de los Problemas Aritméticos de Enunci
 ## Stack Tecnológico 
 Para implementar el proyecto se utilizaron las siguientes tecnologias:
 
+| Plugin | README |
+| ------ | ------ |
 | Android Studio | [Toda la programación fue realizada en el lenguaje Java][PlDb] |
 | MySQL | [Almacenar el puntaje obtenido de cada usuario][PlGh] |
 | Firebase | [Almacenar en tiempo real la conversación con el bot][PlGd] |
