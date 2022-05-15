@@ -6,7 +6,7 @@ Resumen de lo que hace este proyecto
 
 ## Video
 
-[![Watch the video]](https://www.youtube.com/watch?v=fURgvzGF0E0)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=fURgvzGF0E0)
 
 ## Stack Tecnológico 
 Define que stack usaste, tanto en backend como en frontend
