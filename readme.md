@@ -11,7 +11,7 @@ Resumen de lo que hace este proyecto
 ## Stack Tecnológico 
 Define que stack usaste, tanto en backend como en frontend
 
-## Documenta del codigo
+## Documentación del codigo
 ### Endpoints API
 Define como funciona tu API
 
