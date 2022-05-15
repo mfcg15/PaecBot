@@ -13,11 +13,11 @@ Para implementar el proyecto se utilizaron las siguientes tecnologias:
 
 | Plugin | README |
 | ------ | ------ |
-| Android Studio | [Toda la programación fue realizada en el lenguaje Java][PlDb] |
-| MySQL | [Almacenar el puntaje obtenido de cada usuario][PlGh] |
-| Firebase | [Almacenar en tiempo real la conversación con el bot][PlGd] |
-| PHP | [Facilitar la comunicación entre el servidor y la aplicación][PlOd] |
-| IBM Watson | [Creación del bot para posteriormente utilizarlo en la aplicación][PlMe] |
+| Android Studio | [Toda la programación fue realizada en el lenguaje Java]|
+| MySQL | [Almacenar el puntaje obtenido de cada usuario]|
+| Firebase | [Almacenar en tiempo real la conversación con el bot]|
+| PHP | [Facilitar la comunicación entre el servidor y la aplicación]|
+| IBM Watson | [Creación del bot para posteriormente utilizarlo en la aplicación]|
 
 ## Documentación
 ### Descargar la aplicación
