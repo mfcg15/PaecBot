@@ -25,7 +25,7 @@ Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 fo
 #### Primera forma 
 Descar el apk del siguiente enlace [Drive](https://drive.google.com/file/d/1-elCZShCng-3fWiS7dEqjcB1bLREwoGp/view) 
 #### Segunda Forma 
-Si se cuenta con la apliacion Telegramsolo es colocar el buscador el nombre de la aplicicacion , elegir la primer opcion y descargar el apk. 
+Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de la aplicicacion , elegir la primer opcion y descargar el apk. 
 
 
 #### Funcionalidades de la aplicación
