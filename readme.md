@@ -6,6 +6,9 @@ Aplicación para reforzar el aprendizaje de los Problemas Aritméticos de Enunci
 
 [![Watch the video](https://i.ibb.co/Rjdm7zD/youtube.jpg)](https://www.youtube.com/watch?v=fURgvzGF0E0)
 
+## Estructura del proyecto
+El proyecto está organizado o estructurado de la siguiente manera:
+
 ## Stack Tecnológico 
 Para implementar el proyecto se utilizaron las siguientes tecnologias:
 
