@@ -66,11 +66,16 @@ Si deseamos actualizar nuevamente nuestra información, presionamos en la opció
 ![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
 #### :lock: Cambio de contraseña
+En el menú elegimos la opción cambiar contraseña, llenamos los campos que se nos muestran, presionamos en cambiar contraseña y automáticamente nuestra contraseña se habrá actualizado. 
+
 ![Cambio de contraseña](https://i.ibb.co/Ns2GGjd/Captura-de-pantalla-188.png)
 
 #### 	:grey_question: Ayuda
+En el menú elegimos la opción ayuda, en esta opción encontramos las 5 imágenes que nos aparece la primera vez que estemos instalando la aplicación en el dispositivo móvil. En estas imágenes nos explica de brevemente y detalla la modalidad de juegos que tiene la aplicación. 
+
 ![Ayuda](https://i.ibb.co/PzZ9BXw/Captura-de-pantalla-189.png)
 
 #### :woman_technologist: Sobre Mi
+En el menú elegimos la opción sobre mí, en ella se encuentra información no solo de la aplicación sino también del desarrollador, como también encontramos un link para enviar un correo, en caso deseamos requerir más información. 
 ![Sobre mi](https://i.ibb.co/fF135Dr/Captura-de-pantalla-193.png)
 
