@@ -43,7 +43,7 @@ Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de 
 ### Funcionalidades de la aplicación
 La principal funcionalidad de la aplicación se muestra en el video, sin embargo, se muestra a continuación las funcionales restantes :
 
-#### Retomar un chat
+#### 	:speech_balloon: Retomar un chat
 ![Retomar chat](https://i.ibb.co/G2WJbHC/Captura-de-pantalla-194.png)
 
 #### Olvidar contraseña
@@ -53,10 +53,10 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 #### :pen: Editar perfil  
 ![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
-#### Cambio de contraseña
+#### :lock: Cambio de contraseña
 ![Cambio de contraseña](https://i.ibb.co/Ns2GGjd/Captura-de-pantalla-188.png)
 
-#### Ayuda
+#### 	:grey_question: Ayuda
 ![Ayuda](https://i.ibb.co/PzZ9BXw/Captura-de-pantalla-189.png)
 
 #### Sobre Mi
