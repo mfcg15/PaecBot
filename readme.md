@@ -1,5 +1,6 @@
 
 # PaecBot
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Explicación del proyecto
 Aplicación para reforzar el aprendizaje de los Problemas Aritméticos de Enunciado Verbal (PAEV), disponible solo para dispositivos móviles con sistema operativo Android partir de la versión 4.4.4 en adelante. 
