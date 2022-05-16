@@ -40,6 +40,15 @@ La carpeta res posee el siguiente orden:
 
 ![Estructura del proyecto](https://i.ibb.co/wJtggtr/Captura-de-pantalla-196.png)
 
+```sh
+En la carpeta anim están todas las animaciones que tiene la aplicación.
+En la carpeta drawable encontramos todos los iconos e imágenes que tiene la aplicación.
+En la carpeta layaout tenemos la maquetación de toda las interfaces a excepción de la estructura que tiene nuestro menú.
+En la carpeta menu encontramos como está dividido el menú
+En la carpeta mipmap posee las imágenes del icono que tiene la app.
+En la carpeta values se encuentran los valores predeterminados del color, tipo de letra y letra que tiene la aplicación. 
+```
+
 ### b) Descargar la aplicación (se recomienda realizar la descarga directamente desde un celular Android)
 Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 formas de descargar el apk, las cuales son las siguientes: 
 
