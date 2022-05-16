@@ -25,7 +25,7 @@ Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 fo
 #### 1) Primera forma 
 Descargar el apk del siguiente enlace [Drive](https://drive.google.com/file/d/1-elCZShCng-3fWiS7dEqjcB1bLREwoGp/view) 
 #### 2) Segunda Forma 
-Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de la aplicicacion o ir al siguiente enlace [Telegram](https://t.me/PaecBot_Descarga) , elegir la primer opcion y descargar el apk tal como se muestra a continuacion. 
+Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de la aplicicacion y elegir la primer opcion o ir directamente al siguiente enlace [Telegram](https://t.me/PaecBot_Descarga). Posteriormente descargar el apk tal como se muestra a continuacion. 
 
 ![instalacion por Telegram](https://i.ibb.co/Vx6SxvG/Captura-de-pantalla-186.png")
 
