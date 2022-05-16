@@ -35,6 +35,7 @@ El proyecto está organizado o estructurado de la siguiente manera:
 Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 formas de descargar el apk, las cuales son las siguientes: 
 
 `Primera forma `
+**Abbreviation(link HTML abbr tag)**
 Descargar el apk del siguiente enlace [Drive](https://drive.google.com/file/d/1-elCZShCng-3fWiS7dEqjcB1bLREwoGp/view) 
 
 `Segunda Forma`
