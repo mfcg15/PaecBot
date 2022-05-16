@@ -59,6 +59,10 @@ En caso olvidemos nuestra contraseña, presionamos en la opción olvidar contras
 ![Olvidar contraseña](https://i.ibb.co/9GYMsK0/Captura-de-pantalla-192.png)
 
 #### :pen: Editar perfil  
+En el menú elegimos la opción editar perfil y elegimos los campos que queremos editar, luego presionamos actualizar, posteriormente nos pedirá ingresar nuestra contraseña actual, damos en aceptar y los nuevos datos se reflejaran automáticamente como así también los campos son bloqueados. 
+
+Si deseamos actualizar nuevamente nuestra información, presionamos en la opción editar perfil y volvemos a realizar los mismos pasos. 
+
 ![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
 #### :lock: Cambio de contraseña
