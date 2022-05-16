@@ -34,6 +34,10 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 
 #### Retomar un chat o un quiz
 
+#### Olvidar contraseña
+![Olvidar contraseña](https://i.ibb.co/W3SGdMg/Captura-de-pantalla-191.png)
+![Olvidar contraseña](https://i.ibb.co/9GYMsK0/Captura-de-pantalla-192.png)
+
 #### Editar perfil  
 ![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
@@ -41,6 +45,8 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 ![Cambio de contraseña](https://i.ibb.co/Ns2GGjd/Captura-de-pantalla-188.png)
 
 #### Ayuda
+![Ayuda](https://i.ibb.co/PzZ9BXw/Captura-de-pantalla-189.png)
 
 #### Sobre Mi
+![Sobre mi](https://i.ibb.co/fF135Dr/Captura-de-pantalla-193.png)
 
