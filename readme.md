@@ -33,7 +33,8 @@ Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de 
 ### Funcionalidades de la aplicación
 La principal funcionalidad de la aplicación se muestra en el video, sin embargo, se muestra a continuación las funcionales restantes :
 
-#### Retomar un chat o un quiz
+#### Retomar un chat
+![Retomar chat](https://i.ibb.co/G2WJbHC/Captura-de-pantalla-194.png)
 
 #### Olvidar contraseña
 ![Olvidar contraseña](https://i.ibb.co/W3SGdMg/Captura-de-pantalla-191.png)
