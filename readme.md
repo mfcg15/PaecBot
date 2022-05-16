@@ -38,6 +38,7 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 ![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
 #### Cambio de contraseña
+![Cambio de contraseña](https://i.ibb.co/Ns2GGjd/Captura-de-pantalla-188.png)
 
 #### Ayuda
 
