@@ -27,6 +27,10 @@ El proyecto está organizado o estructurado de la siguiente manera:
 
 ![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
 
+```sh
+node app
+```
+
 El proyecto está organizado o estructurado de la siguiente manera:
 
 ![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
