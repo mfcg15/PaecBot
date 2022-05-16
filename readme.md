@@ -23,12 +23,13 @@ El proyecto está organizado o estructurado de la siguiente manera:
 
 ![Estructura del proyecto](https://i.ibb.co/RpVDZyj/Captura-de-pantalla-195.png)
 
-El proyecto está organizado o estructurado de la siguiente manera:
+La carpeta app posee el siguiente orden:
 
 ![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
 
 ```sh
-node app
+En la carpeta encontramos toda la programacion de cada interfaz realizada
+En la carpte encontramos 
 ```
 
 El proyecto está organizado o estructurado de la siguiente manera:
