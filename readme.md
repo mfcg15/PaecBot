@@ -18,7 +18,7 @@ Para implementar el proyecto se utilizaron las siguientes tecnologias:
 | IBM Watson | Creación del bot para posteriormente utilizarlo en la aplicación|
 
 ## Documentación
-### Estructura del proyecto
+### a) Estructura del proyecto
 El proyecto está organizado o estructurado de la siguiente manera:
 
 ![Estructura del proyecto](https://i.ibb.co/RpVDZyj/Captura-de-pantalla-195.png)
@@ -31,7 +31,7 @@ El proyecto está organizado o estructurado de la siguiente manera:
 
 ![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
 
-### Descargar la aplicación (se recomienda realizar la descarga directamente desde un celular Android)
+### b) Descargar la aplicación (se recomienda realizar la descarga directamente desde un celular Android)
 Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 formas de descargar el apk, las cuales son las siguientes: 
 #### 1) Primera forma 
 Descargar el apk del siguiente enlace [Drive](https://drive.google.com/file/d/1-elCZShCng-3fWiS7dEqjcB1bLREwoGp/view) 
@@ -40,13 +40,13 @@ Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de 
 
 ![instalacion por Telegram](https://i.ibb.co/Vx6SxvG/Captura-de-pantalla-186.png)
 
-### Funcionalidades de la aplicación
+### c) Funcionalidades de la aplicación
 La principal funcionalidad de la aplicación se muestra en el video, sin embargo, se muestra a continuación las funcionales restantes :
 
 #### 	:speech_balloon: Retomar un chat
 ![Retomar chat](https://i.ibb.co/G2WJbHC/Captura-de-pantalla-194.png)
 
-#### Olvidar contraseña
+#### :key: Olvidar contraseña
 ![Olvidar contraseña](https://i.ibb.co/W3SGdMg/Captura-de-pantalla-191.png)
 ![Olvidar contraseña](https://i.ibb.co/9GYMsK0/Captura-de-pantalla-192.png)
 
@@ -59,6 +59,6 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 #### 	:grey_question: Ayuda
 ![Ayuda](https://i.ibb.co/PzZ9BXw/Captura-de-pantalla-189.png)
 
-#### Sobre Mi
+#### :woman_technologist: Sobre Mi
 ![Sobre mi](https://i.ibb.co/fF135Dr/Captura-de-pantalla-193.png)
 
