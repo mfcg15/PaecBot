@@ -28,13 +28,17 @@ La carpeta app posee el siguiente orden:
 ![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
 
 ```sh
-En la carpeta encontramos toda la programacion de cada interfaz realizada
-En la carpte encontramos 
+En la carpeta Activity encontramos toda la programación de cada interfaz hecha a excepción de los fragments. 
+En la carpeta Adapters encontramos los adaptadores que nos permiten mostrar todas las listas. 
+En la carpeta Codigo tenemos código complementario para asegurar el correcto funcionamiento. 
+En la carpeta Fragments encontramos la programación que permite dividir la interfaz y mostrar las dos modalidades. 
+En la carpeta Objetos posee los objetos que tiene la aplicación. 
+En la carpeta Requests encontramos las peticiones al servidor para obtener información de la base de datos. 
 ```
 
-El proyecto está organizado o estructurado de la siguiente manera:
+La carpeta res posee el siguiente orden:
 
-![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
+![Estructura del proyecto](https://i.ibb.co/wJtggtr/Captura-de-pantalla-196.png)
 
 ### b) Descargar la aplicación (se recomienda realizar la descarga directamente desde un celular Android)
 Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 formas de descargar el apk, las cuales son las siguientes: 
