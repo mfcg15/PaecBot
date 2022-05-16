@@ -53,6 +53,8 @@ Elegimos el chat que deseamos retomar y escribimos continuar para proseguir con 
 ![Retomar chat](https://i.ibb.co/G2WJbHC/Captura-de-pantalla-194.png)
 
 #### :key: Olvidar contraseña
+En caso olvidemos nuestra contraseña, presionamos en la opción olvidar contraseña que se encuentra en el login de la aplicación, luego nos pedirá ingresar nuestro correo, posteriormente recibiremos un correo con un link para poder escribir una nueva contraseña que nos permitirá ingresar nuevamente a la aplicación.
+
 ![Olvidar contraseña](https://i.ibb.co/W3SGdMg/Captura-de-pantalla-191.png)
 ![Olvidar contraseña](https://i.ibb.co/9GYMsK0/Captura-de-pantalla-192.png)
 
