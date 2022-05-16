@@ -6,9 +6,6 @@ Aplicación para reforzar el aprendizaje de los Problemas Aritméticos de Enunci
 
 [![Watch the video](https://i.ibb.co/Rjdm7zD/youtube.jpg)](https://www.youtube.com/watch?v=fURgvzGF0E0)
 
-## Estructura del proyecto
-El proyecto está organizado o estructurado de la siguiente manera:
-
 ## Stack Tecnológico 
 Para implementar el proyecto se utilizaron las siguientes tecnologias:
 
@@ -21,6 +18,13 @@ Para implementar el proyecto se utilizaron las siguientes tecnologias:
 | IBM Watson | Creación del bot para posteriormente utilizarlo en la aplicación|
 
 ## Documentación
+### Estructura del proyecto
+El proyecto está organizado o estructurado de la siguiente manera:
+
+![Estructura del proyecto](https://i.ibb.co/RpVDZyj/Captura-de-pantalla-195.png)
+![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
+![Estructura del proyecto](https://i.ibb.co/xST8LmL/Captura-de-pantalla-197.png)
+
 ### Descargar la aplicación (se recomienda realizar la descarga directamente desde un celular Android)
 Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 formas de descargar el apk, las cuales son las siguientes: 
 #### 1) Primera forma 
