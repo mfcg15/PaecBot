@@ -50,7 +50,7 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 ![Olvidar contraseña](https://i.ibb.co/W3SGdMg/Captura-de-pantalla-191.png)
 ![Olvidar contraseña](https://i.ibb.co/9GYMsK0/Captura-de-pantalla-192.png)
 
-#### Editar perfil  
+#### :pen: Editar perfil  
 ![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
 #### Cambio de contraseña
