@@ -36,6 +36,7 @@ Dado de la aplicación no se encuentra disponible en la Play Store, tenemos 2 fo
 
 `Primera forma `
 **Abbreviation(link HTML abbr tag)**
+
 Descargar el apk del siguiente enlace [Drive](https://drive.google.com/file/d/1-elCZShCng-3fWiS7dEqjcB1bLREwoGp/view) 
 
 `Segunda Forma`
