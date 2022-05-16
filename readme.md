@@ -27,7 +27,7 @@ Descargar el apk del siguiente enlace [Drive](https://drive.google.com/file/d/1-
 #### 2) Segunda Forma 
 Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de la aplicicacion y elegir la primer opcion o ir directamente al siguiente enlace [Telegram](https://t.me/PaecBot_Descarga). Posteriormente descargar el apk tal como se muestra a continuacion. 
 
-![instalacion por Telegram](https://i.ibb.co/Vx6SxvG/Captura-de-pantalla-186.png")
+![instalacion por Telegram](https://i.ibb.co/Vx6SxvG/Captura-de-pantalla-186.png)
 
 ### Funcionalidades de la aplicación
 La principal funcionalidad de la aplicación se muestra en el video, sin embargo, se muestra a continuación las funcionales restantes :
@@ -35,6 +35,7 @@ La principal funcionalidad de la aplicación se muestra en el video, sin embargo
 #### Retomar un chat o un quiz
 
 #### Editar perfil  
+![Editar perfil](https://i.ibb.co/TY5BnR7/Captura-de-pantalla-187.png)
 
 #### Cambio de contraseña
 
