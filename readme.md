@@ -76,6 +76,7 @@ En el menú elegimos la opción ayuda, en esta opción encontramos las 5 imágen
 ![Ayuda](https://i.ibb.co/PzZ9BXw/Captura-de-pantalla-189.png)
 
 #### :woman_technologist: Sobre Mi
-En el menú elegimos la opción sobre mí, en ella se encuentra información no solo de la aplicación sino también del desarrollador, como también encontramos un link para enviar un correo, en caso deseamos requerir más información. 
+En el menú elegimos la opción sobre mí, en ella se encuentra información no solo de la aplicación sino también del desarrollador, como también encontramos un link que al presionar nos manda aplicación predeterminada del celular para enviar correos, en ella podemos enviar un correo si así lo deseamos. 
+
 ![Sobre mi](https://i.ibb.co/fF135Dr/Captura-de-pantalla-193.png)
 
