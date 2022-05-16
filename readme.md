@@ -48,6 +48,8 @@ Si se cuenta con la apliacion Telegram solo es colocar el buscador el nombre de 
 La principal funcionalidad de la aplicación se muestra en el video, sin embargo, se muestra a continuación las funcionales restantes :
 
 #### 	:speech_balloon: Retomar un chat
+Elegimos el chat que deseamos retomar y escribimos continuar para proseguir con la siguiente pregunta en donde se quedó.
+
 ![Retomar chat](https://i.ibb.co/G2WJbHC/Captura-de-pantalla-194.png)
 
 #### :key: Olvidar contraseña
